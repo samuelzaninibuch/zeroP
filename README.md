@@ -1,0 +1,2 @@
+# zeroZ
+a solo company
