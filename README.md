@@ -1,2 +1,0 @@
-# zeroZ
-a solo company
